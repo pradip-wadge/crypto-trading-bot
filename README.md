@@ -1,4 +1,4 @@
-# Crypto Trading Simulator 12
+# Crypto Trading Simulator 
 
 ## Overview
 This project is a cryptocurrency trading simulator that fetches live price data from the CoinGecko API and executes simulated trades based on Simple Moving Averages (SMA). It uses a circular buffer for efficient data handling and logs trade activities.
